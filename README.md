@@ -1,6 +1,7 @@
 # soprasteria
 Interview Test:
 ## Build
+dotnet version 6.0
 ```
 git clone https://github.com/israel24961/soprasteria.git
 cd soprasteria
