@@ -1,6 +1,13 @@
 # soprasteria
 Interview Test:
-
+## Build
+```
+git clone https://github.com/israel24961/soprasteria.git
+cd soprasteria
+dotnet restore
+dotnet run
+```
+## About
 Each exercise is found on its respective file:
 Ejercicio1.cs
 Ejercicio2.cs
